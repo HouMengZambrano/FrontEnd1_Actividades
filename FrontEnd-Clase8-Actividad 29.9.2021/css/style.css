@@ -1,0 +1,82 @@
+#iconoPerfil{
+    background-color: #00437A;
+    text-align: center;
+}
+
+.imgSize{
+   width: 200px;
+   height: 200px;
+   margin-top: 5px;
+   margin-bottom: 2px;
+}
+
+h1 {
+    background-color: #C4C4C4;
+    color:#005677;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-size: 35px;
+    font-style: normal;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing : 2mm;
+    margin-bottom: 135px;
+    margin-top : 0px;
+}
+
+h3{
+    background-color: #C4C4C4;
+    color:#005677;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-size: 20px;
+    font-style: normal;
+    text-transform: uppercase;
+    letter-spacing : 1mm;
+}
+
+.Informacion{
+    color: black;
+    font-size: 15px;
+    font-weight: bold;
+    font-style:italic;
+    font-family: 'Times New Roman', Times, serif;
+    }
+    
+.fechas{
+    color: black;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: bold;
+}
+
+li {
+    font-style:normal;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.espacio{
+    margin-left: 34px;
+}
+
+main {
+    margin-bottom: 215px;
+}
+
+#pie{
+    color: white;
+    background-color: #005677;
+    font-size: 20px;
+    text-align: center;
+    text-transform : uppercase; 
+    margin-bottom: 0px;
+}
+
+.logo
+{
+    margin : 0 8px;
+    margin-top: 4px;
+}
+
