@@ -1,0 +1,74 @@
+@font-face{
+    font-family:probando;
+    src: url("../fonts/Roboto-Regular.ttf") format("truetype");   
+}
+
+*{
+    font-family:probando;
+}
+
+.cabezaNegra{
+    background-color:#222222;
+    color:#FFFFFF;
+}
+
+.cabezaAmarilla{
+    background-color: #F0A83E;
+    color: #FFFFFF;
+
+}
+
+h1{
+    color:#3C2313;
+    text-align:center;
+}
+
+.fondoPrincipal{
+    background-image: url("../img/Imagen\ del\ bowl\ grane\ .png");
+    width:1080px;
+    height: 409px;
+    background-size:cover;  
+    text-align:center; 
+}
+
+.cuerpoGris{
+    background-color: #FBFAF6;
+}
+ul li span {
+    background-color:#F0A83E;
+    color: #FFFFFF;
+}
+
+ul li h2{
+    color:#3C2313;
+    
+}
+
+.opciones{
+    color: #666666;
+}
+
+.plata{
+    color:#F0A83E
+}
+
+.producto{
+    color:#3C2313
+}
+
+.pieMarron{
+    background-color: #3C2313;
+    color:#8A8787;
+
+}
+
+h3{
+    color: #FFFFFF;
+    
+}
+
+p{
+    background-color:#F0A83E;
+    text-align:center;
+}
+
