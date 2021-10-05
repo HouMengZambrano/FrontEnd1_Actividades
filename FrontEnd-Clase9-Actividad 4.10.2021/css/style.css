@@ -1,0 +1,213 @@
+*{ 
+    font-family: roboto;
+    box-sizing: content-box;   
+}  
+.cabezaPrincipal{
+
+    background-color: #1CD1B0;
+    font-weight:400;
+    font-size:15px;   
+    padding: 10px;
+    margin-left:0px;
+    margin-top:0px;
+}
+
+.cabezaSecundaria{
+    
+    background-color: #00669F;
+    font-weight: 400;
+    font-size:40px;
+    padding-top:66px;
+    padding-left:28px;
+    height:101px;
+    margin-top:0px;
+    margin-bottom: 250px;
+    box-shadow: 0px 10px 7px rgba(0, 0, 0, 0.25);
+}
+
+section{
+    position: relative;
+}
+
+
+.corazon1{
+    position: relative;
+    bottom: 70px;
+    left: 21px;
+    
+}
+
+.iconoBatman1{
+    position:relative;
+    border-radius:50%;
+    top:130px;
+    left: 56px;
+}
+
+.primerTitulo{
+    position:relative;
+    top:120px;
+    left:118px;
+
+}
+
+.parrafoUno{
+    position:relative;
+    top: 110px;
+    left:16px;
+    font-size:16px;
+    line-height: 19px;
+    font-weight:400;
+    margin-right: 17px;
+}
+
+.botonUno{
+    position: relative;
+    background-color: #00669F;
+    text-align:center;
+    top: 147px;
+    left: 100px;
+    width: 100px;
+    height: 36px;
+    padding-top: 12px;
+    padding-bottom: 0px;
+    color:#FFF9F9
+}
+
+.tarjeta1{
+    position: absolute;
+    left: 32px;
+    width:300px;
+    height:529px;
+    background-color:#F3F3F3;
+    background-image: url("../img/batiCueva.png");
+    background-repeat: no-repeat;
+    border-radius: 16px 16px 0px 0px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+    
+.corazon2 {
+    position: relative;
+    bottom: 70px;
+    left: 21px;
+}
+
+.iconoHarley{
+
+    position:relative;
+    border-radius:50%;
+    top:130px;
+    left: 56px;
+}
+
+.primerTitulo2{
+    position:relative;
+    top:120px;
+    left:97px;
+
+}
+
+.parrafoDos{
+    position:relative;
+    top: 110px;
+    left:16px;
+    font-size:16px;
+    line-height: 19px;
+    font-weight:400;
+    margin-right: 17px;
+}
+
+.botonDos{
+    position: relative;
+    background-color: #00669F;
+    text-align:center;
+    top: 147px;
+    left: 100px;
+    width: 100px;
+    height: 36px;
+    padding-top: 12px;
+    padding-bottom: 0px;
+    color:#FFF9F9
+}
+
+
+
+.tarjeta2{
+    position: absolute;
+    left:362px;
+    width:300px;
+    height:529px;
+    background-color: #F3F3F3;
+    border-radius: 16px 16px 0px 0px;
+    background-image: url("../img/pintura.png");
+    background-repeat: no-repeat;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.corazon3{
+    position: relative;
+    bottom: 70px;
+    left: 21px;
+}
+
+.iconoBatman2{
+    position:relative;
+    border-radius:50%;
+    top:130px;
+    left: 56px;
+}
+
+.primerTitulo3{
+    position:relative;
+    top:120px;
+    left:118px;
+}
+
+.parrafoTres{
+    position:relative;
+    top: 110px;
+    left:16px;
+    font-size:16px;
+    line-height: 19px;
+    font-weight:400;
+    margin-right: 17px;
+}
+
+.botonTres{
+    position: relative;
+    background-color: #00669F;
+    text-align:center;
+    top: 147px;
+    left: 100px;
+    width: 100px;
+    height: 36px;
+    padding-top: 12px;
+    padding-bottom: 0px;
+    color:#FFF9F9
+}
+
+
+
+.tarjeta3{
+    position: absolute;
+    left:692px;
+    width:300px;
+    height:529px;
+    background-color:#F3F3F3;
+    background-image: url("../img/batiCueva.png");
+    background-repeat: no-repeat;
+    border-radius: 16px 16px 0px 0px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+footer{
+    margin-top:1000px;
+    margin-left:0px;
+    background-color:#00669F;
+    font-weight:400px;
+    font-size:16px;
+    color: #FFF9F9;
+    padding:16px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
