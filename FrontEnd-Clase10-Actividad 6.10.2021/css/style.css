@@ -1,0 +1,95 @@
+*{
+    box-sizing: border-box;
+}
+header{
+    display:flex;
+    background-color: #222222;
+    padding:10px 20px;
+    box-shadow:  0px 4px 4px rgba(0, 0, 0, 0.25);
+    justify-content: space-between;
+}
+.tituloPizza{
+    display:inline-flex;
+    align-items:center;
+}
+
+
+.cabezaDerecha{
+    display: inline-flex;
+    align-items: center;
+    color: #F3F3F3;
+    font-size: 16px;
+}
+
+main{
+    background-color: #E5E5E5;
+    display:flex;
+    justify-content: space-around;
+    padding: 35px 19px;
+}
+
+.cuerpoIzquierdo{
+    width:490px;
+    height:350px;
+    display: inline-flex;
+    background-image: url(../img/delivery.jpg);
+    border-radius: 5px;
+    margin:2.5px;
+    padding-left:20px;
+}
+
+div h2 span{
+    color:#FC200C;
+    font-size: 24px;
+}
+#albino{
+    color:#F3F3F3;
+    font-size: 24px;
+}
+.cuerpoDerecho{
+    display:inline-flex;
+    flex-direction:row;
+    background-color: #FFFFFF;
+    width:490px;
+    height:350px;
+    border-radius:5px;
+    margin:2.5px;
+}
+
+.tituloTop{
+    color:#FC200C;
+    align-self: flex-start;
+}
+
+
+.arbolPizza{    
+    width:92px;
+    height:129px;
+    align-self:center;
+}
+
+.lista{
+    align-self: center;
+
+}
+
+footer{
+    display:flex;
+    background-color: #222222;
+    padding:10px 20px;
+    box-shadow:  0px 4px 4px rgba(0, 0, 0, 0.25);
+    justify-content: space-between;
+}
+
+.pieIzquierdo{
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    color: #F3F3F3;
+    font-size: 16px;
+}
+
+.pieDerecho{
+    display: inline-flex;
+    align-items: center;
+}
