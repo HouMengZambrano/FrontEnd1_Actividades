@@ -1,0 +1,338 @@
+
+.cabezaNegra{
+    background-color:#222222;
+    color: #F3F3F3;
+    font-size: 10px;
+    display: flex;
+    justify-content: space-between;
+    padding: 4px 52px 4px 90px;
+    flex-wrap: wrap;
+}
+ div nav span{
+    margin-right: 20px;
+}
+.cabezaAmarilla{
+    background-color:#F0A83E ;
+    color: #FFFFFF;
+    font-size: 13px;
+    padding: 20px 40px; 
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.miniPatita{
+    margin-right: 5px;
+}
+
+/*Main*/
+
+/*Primer seccion*/
+
+.primerBox{
+    display: flex;
+    background-image: url("../img/bowl-and-pet-daities-on-green-background\ 1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:1080;
+    height:410px;
+    justify-content: flex-end;
+    text-align: center;
+    align-items: center;
+    padding-right:12px;
+    flex-wrap: wrap;
+} 
+
+.primerP{
+    background-color: #FFFFFF;
+    color:#3C2313;
+    font-size: 30px;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 12px 0px;
+}
+
+.segundoP{
+    color: #3C2313;
+    font-size: 16px;
+}
+
+.primerBoton{
+    background-color: #F0A83E;
+    color: #FFFFFF;
+    font-size: 16px;
+    border-radius:5px;
+    width: 142px;
+    height: 40px;   
+    border-color:#F0A83E;
+}
+
+/* Segundo seccion*/
+
+.segundoBox{
+    display:flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    text-align:center;
+    margin-top: 20px;
+}
+
+ h1{
+    font-size:40px;
+    font-weight:700;
+    color: #3C2313;
+    margin-top:10px;
+    margin-bottom:20;
+
+}
+
+.subtitle{
+    color: #666666;
+    font-size:15px;
+}
+
+.subtitle span{
+    margin-right: 6px;
+    margin-left:6px;
+}
+
+/*Tercer Seccion*/
+
+.tercerBox{
+    padding:50px 95px;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.tarjetaProducto1{
+    display: inline-flex;
+    flex-wrap: wrap;
+    background-color:#FBFAF6;
+    width: 265px;
+    height: 313px;
+    background-image:url("../img/churrasquito.png");
+    text-align :center;
+    justify-content: center;
+    align-items:flex-end   
+}
+
+.nombreProducto1{
+    font-size:15px;
+    color: #3C2313;
+    margin-bottom: 0px;;
+}
+
+.precioProducto1{
+    margin-top:0px;
+    font-size:15px;
+    color: #F0A83E;   
+}
+
+.tarjetaProducto2{
+    display: inline-flex;
+    flex-wrap: wrap;
+    background-color:#FBFAF6;
+    width: 265px;
+    height: 313px;
+    background-image:url("../img/comedero.png");
+    text-align :center;
+    justify-content: center;
+    align-items:flex-end;   
+    margin-right:20px;
+    margin-left:20px;
+}
+
+.nombreProducto2{
+    font-size:15px;
+    color: #3C2313;
+    margin-bottom: 0px;;
+}
+
+.precioProducto2{
+    margin-top:0px;
+    font-size:15px;
+    color: #F0A83E;   
+}
+
+.tarjetaProducto3{
+    display: inline-flex;
+    flex-wrap: wrap;
+    background-color:#FBFAF6;
+    width: 265px;
+    height: 313px;
+    background-image:url("../img/Huesito.png");
+    text-align :center;
+    justify-content: center;
+    align-items:flex-end   
+}
+
+.nombreProducto3{
+    font-size:15px;
+    color: #3C2313;
+    margin-bottom: 0px;;
+}
+
+.precioProducto3{
+    margin-top:0px;
+    font-size:15px;
+    color: #F0A83E;   
+}
+
+/*4to Seccion*/  
+
+.cuartaBox{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:center;
+}
+
+.formulario{
+    display:flex;
+    text-align: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    padding: 0px;
+}
+
+h2{
+    font-size:25px;
+    color: #3C2313;   
+}
+
+#datosUsuario{
+    display: inline-flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:#3C2313 ;
+    font-size: 9px;
+    color:#FFFFFF;
+    border-radius:15px;
+    width: 340px;
+    height: 40px;
+    padding-left: 14.11px;
+}
+
+.botones{
+    margin-top: 31px;
+}
+
+#botonReset{
+    background-color:#8A8787;
+    border-radius: 15px;
+    margin-right:6px;
+    color: #FFFFFF;
+    font-size: 16px;
+    width: 110px;
+    height: 34px;
+    border-color:#8A8787;
+
+}
+
+#botonSend{
+    background-color: #F0A83E;
+    border-radius:15px;
+    color: #FFFFFF;
+    font-size: 16px;
+    width: 110px;
+    height: 34px;
+    border-color:#F0A83E;
+}
+
+/* 5to Seccion*/
+
+.quintaBox{
+    background-color: #F0A83E;
+    display:flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+    height: 60px;
+    padding-left: 23px;
+    padding-right:47px;
+}
+
+
+.quintaBox div span{
+    color:#FFFFFF;
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+#formularioCorreo{
+    width: 271px;
+    height: 40px;
+    background-color: #FFFFFF;
+    color: #A0A0A0;
+    font-size: 9px;
+    border-radius: 15px;
+    padding: 14px 148px 15px 8px;
+}
+
+#botonSub{
+    background-color:#3C2313 ;
+    color:#FFFFFF;
+    font-size: 9px;
+    padding: 12px 10px 11px 11px;
+    border-color:#3C2313;
+    border-radius: 15px;
+}
+
+/*footer*/
+
+footer{
+    display: flex;
+    flex-wrap:wrap;
+    height: 284px;
+    background-color: #3C2313;
+    padding-right: 70px;
+    padding-top:20px;
+    padding-bottom:20px;
+    margin-bottom: 0px;
+}
+
+.soloIconos{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: flex-end;
+    width:15%;
+}
+
+.soloIconos img{
+
+    width: 66px;
+    height: 66px;
+}
+
+footer .iconosInf{
+    width:35%
+}
+
+h3{
+    font-size: 20px;
+    color:#FFFFFF;
+    margin-bottom: 0px;
+}
+.iconosInf ul li{
+    font-size: 10px;
+    color:#8A8787;
+    margin-top:0px;
+    margin-bottom: 55px;
+}
+
+footer .imgPie{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    width: 50%;
+}
+
+.footerFinal{
+    background-color: #222222;
+    text-align:center;
+    color: #FFFFFF;
+    font-size: 10px;
+    margin-top: 0px;
+}
